@@ -84,6 +84,46 @@ I believe that great software is built on solid principles. My development philo
 
 <br/>
 
+<details>
+<summary><strong>🇪🇸 Versión en Español (Click para ver)</strong></summary>
+<br/>
+
+## 🚀 Sobre Mí
+
+**¡Hola, soy Angel! 👋**
+
+Soy un **Desarrollador Backend Senior** con más de **7 años de experiencia** creando soluciones de software escalables y eficientes. Mi trayectoria me ha llevado a través de los mundos acelerados de **fintech** y **e-commerce**, donde he perfeccionado mis habilidades en la construcción de microservicios de alto tráfico y APIs robustas.
+
+Aunque mi experiencia principal radica en **Node.js**, **NestJS** y **AWS**, soy un desarrollador que valora el panorama completo. Me siento cómodo trabajando con **tecnologías Frontend** como **React** y **Next.js**, lo que me permite cerrar la brecha entre la lógica del backend y la experiencia del usuario, y contribuir a funcionalidades full-stack cuando es necesario.
+
+- 🔭 Actualmente estoy explorando **Patrones Avanzados Orientados a Eventos** y **Arquitecturas Serverless**.
+- 💡 **Lo que me impulsa**: Resolver problemas algorítmicos complejos y optimizar sistemas para un rendimiento máximo.
+- ⚡ **Mi Objetivo**: Construir software que no solo sea funcional, sino también mantenible, escalable y un placer para trabajar.
+
+<br/>
+
+## 🏆 Proyectos Destacados
+
+| Proyecto | Descripción | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **Turnera** | Un **Sistema de Gestión de Reservas Multi-Inquilino** diseñado para la escalabilidad. Maneja programación compleja, notificaciones y aislamiento de inquilinos. | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| **SorteApp** | Una **Plataforma de Gestión de Sorteos**. Construida para manejar tráfico de alta concurrencia durante eventos en vivo con actualizaciones en tiempo real. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white) |
+
+<br/>
+
+## ⚙️ Enfoque de Ingeniería
+
+Creo que el gran software se construye sobre principios sólidos. Mi filosofía de desarrollo se centra en:
+
+*   **Domain-Driven Design (DDD)**: Estructuro mi código para reflejar el dominio del negocio, asegurando que permanezca comprensible y mantenible a medida que crece.
+*   **Arquitectura Hexagonal**: Mantengo la lógica de negocio central independiente de herramientas externas, haciendo que el sistema sea adaptable y fácil de probar.
+*   **Arquitectura Orientada a Eventos**: Construyo sistemas desacoplados utilizando **Kafka** y **AWS SNS/SQS** para asegurar escalabilidad y resiliencia.
+*   **Automatización Primero**: Confío en robustos **pipelines de CI/CD** e **Infraestructura como Código** para entregar software confiable frecuentemente y con confianza.
+
+</details>
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=angelguillen10&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
