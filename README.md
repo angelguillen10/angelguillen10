@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Senior+Backend+Developer;Node.js+%26+NestJS+Expert;Scalable+Architecture;Cloud+Native+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Senior+Backend+Developer;Node.js+%26+NestJS+Expert;Scalable+Architecture;Full+Stack+Capable" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,16 +21,15 @@
 
 ## 🚀 About Me
 
-**Senior Backend Developer | Node.js, NestJS, AWS, Scalable APIs**
+**Hi, I'm Angel! 👋**
 
-With **7+ years of experience** in fintech, e-commerce, and high-traffic microservices, I specialize in designing and developing robust solutions using **Node.js**, **NestJS**, and **AWS**. I deliver clean architecture, maintainable code, and production-ready results.
+I am a **Senior Backend Developer** with over **7 years of experience** crafting scalable and efficient software solutions. My journey has led me through the fast-paced worlds of **fintech** and **e-commerce**, where I've honed my skills in building high-traffic microservices and robust APIs.
 
-- 🔭 I’m currently building **Scalable SaaS Platforms** and **Event-Driven Microservices**.
-- 💡 **Key Expertise**:
-    - **Backend**: Node.js, NestJS, TypeScript, Microservices (DDD, Hexagonal).
-    - **Cloud & DevOps**: AWS (ECS, Lambda, DynamoDB), Serverless, Docker, CI/CD.
-    - **Database**: PostgreSQL, MongoDB, Redis.
-- ⚡ **Why Me?**: I focus on fixing critical backend issues, optimizing performance, and delivering full-lifecycle development from idea to deployment.
+While my core expertise lies in **Node.js**, **NestJS**, and **AWS**, I am a developer who values the full picture. I am comfortable working with **Frontend technologies** like **React** and **Next.js**, allowing me to bridge the gap between backend logic and user experience, and contribute to full-stack features when needed.
+
+- 🔭 I’m currently exploring **Advanced Event-Driven Patterns** and **Serverless Architectures**.
+- 💡 **What drives me**: Solving complex algorithmic problems and optimizing systems for peak performance.
+- ⚡ **My Goal**: To build software that is not just functional, but also maintainable, scalable, and a joy to work with.
 
 <br/>
 
@@ -45,12 +44,12 @@ With **7+ years of experience** in fintech, e-commerce, and high-traffic microse
 
 ## ⚙️ Engineering Approach
 
-I don't just write code; I build **systems**. My development philosophy centers on:
+I believe that great software is built on solid principles. My development philosophy centers on:
 
-*   **Domain-Driven Design (DDD)**: Aligning software structure with business domains for long-term maintainability.
-*   **Hexagonal Architecture**: Ensuring core logic is independent of external tools and frameworks.
-*   **Event-Driven Architecture**: Building decoupled, scalable microservices using **Kafka** and **AWS SNS/SQS**.
-*   **Automation First**: Implementing robust **CI/CD pipelines** (GitHub Actions) and **Infrastructure as Code** (Terraform/CloudFormation).
+*   **Domain-Driven Design (DDD)**: I structure my code to reflect the business domain, ensuring it remains understandable and maintainable as it grows.
+*   **Hexagonal Architecture**: I keep core business logic independent of external tools, making the system adaptable and easy to test.
+*   **Event-Driven Architecture**: I build decoupled systems using **Kafka** and **AWS SNS/SQS** to ensure scalability and resilience.
+*   **Automation First**: I rely on robust **CI/CD pipelines** and **Infrastructure as Code** to deliver reliable software frequently and with confidence.
 
 <br/>
 
