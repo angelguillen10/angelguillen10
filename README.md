@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,50:b4682a,100:d4823a&height=180&section=header&text=Angel%20Guillen&fontColor=ededec&fontSize=58&fontAlignY=36&desc=Backend%20%26%20AI%20Engineer%20Sr&descAlignY=58&descSize=18" width="100%" alt="Angel Guillen"/>
+# Angel Guillen
+
+### Backend &amp; AI Engineer Sr
 
 `Node.js` · `TypeScript` · `NestJS` · `PostgreSQL` · `AWS`
 
@@ -204,10 +206,3 @@ Most of my recent work lives in private repositories: multi-tenant SaaS platform
 
 </details>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4823a,50:b4682a,100:0b0b0c&height=120&section=footer" width="100%" alt=""/>
-
-</div>
