@@ -24,12 +24,11 @@ La mayor parte de mi trabajo reciente vive en repositorios privados: plataformas
 
 <div align="center">
 
-[![Contribuciones](https://github-readme-stats.vercel.app/api?username=angelguillen10&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4823a&icon_color=d4823a&text_color=8f8f8c)](https://github.com/angelguillen10)
-[![Racha](https://github-readme-streak-stats.herokuapp.com/?user=angelguillen10&theme=dark&hide_border=true&background=0d1117&ring=d4823a&fire=d4823a&currStreakLabel=d4823a&sideLabels=8f8f8c&dates=5e5e5b)](https://github.com/angelguillen10)
+[![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=angelguillen10&theme=dark&hide_border=true&background=0d1117&ring=d4823a&fire=d4823a&currStreakLabel=d4823a&sideLabels=8f8f8c&dates=5e5e5b)](https://github.com/angelguillen10)
 
 </div>
 
-> El gráfico de contribuciones refleja trabajo mayormente en repositorios privados: unos 290 días activos en el último año sobre proyectos en producción.
+> Casi todo mi trabajo vive en repositorios privados, así que el gráfico de contribuciones es la parte visible: alrededor de 5.900 commits en el último año, repartidos en unos 290 días con actividad.
 
 ---
 
