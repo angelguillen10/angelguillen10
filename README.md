@@ -14,41 +14,41 @@ Node.js · TypeScript · NestJS · PostgreSQL · AWS
 
 ---
 
-## About
+## Sobre mí
 
-Backend engineer with 7+ years building production systems, currently focused on **AI agents** and **payment infrastructure**.
+Ingeniero backend con más de 7 años construyendo sistemas en producción, enfocado hoy en **agentes de IA** e **infraestructura de pagos**.
 
-Most of my recent work lives in private repositories: multi-tenant SaaS platforms, WhatsApp AI sales agents handling real customer conversations at scale, and a payment hub integrating four providers across three countries. I build systems that run unattended and I stay to operate them.
+La mayor parte de mi trabajo reciente vive en repositorios privados: plataformas SaaS multi-tenant, agentes de IA que venden por WhatsApp atendiendo conversaciones reales todos los días, y un hub de pagos que integra cuatro proveedores en tres países. Construyo sistemas que corren solos y me quedo a operarlos.
 
-**Open to backend and AI engineering roles — remote.**
-
----
-
-## What I build
-
-**AI agents for WhatsApp**
-Sales and support assistants on the official WhatsApp Business API. They answer from a real product catalog, assemble orders with validated addresses, hand off to humans when the conversation needs it, and run 24/7 in production. Built on NestJS with Gemini and Claude, backed by PostgreSQL.
-
-**Payment infrastructure**
-A central payment hub abstracting Mercado Pago, dLocal, Cryptomus and Stripe behind one API. Idempotent webhooks, signature verification, reconciliation, and a single integration surface for every product in the stack.
-
-**Ad automation at scale**
-Campaign management against the Meta Marketing and TikTok Ads APIs: server-side conversion tracking with deduplication, cost-per-acquisition monitoring, and rules that reallocate budget and pause underperforming creatives based on statistical evidence rather than a single bad day.
-
-**Commerce platforms**
-Multi-country e-commerce with cash-on-delivery flows, carrier integrations, order lifecycle management and attribution that survives the gap between an ad click and a delivered package.
+**Disponible para posiciones de backend e ingeniería de IA, en remoto.**
 
 ---
 
-## Engineering
+## Qué construyo
 
-**Hexagonal architecture.** Domain logic independent of frameworks and I/O. Adapters are replaceable, the core is testable without a database.
+**Agentes de IA para WhatsApp**
+Asistentes de venta y atención sobre la API oficial de WhatsApp Business. Responden con el catálogo y los precios reales del negocio, arman el pedido con dirección validada, derivan a una persona cuando la conversación lo necesita, y corren 24/7 en producción. NestJS con Gemini y Claude, sobre PostgreSQL.
 
-**Explicit over implicit.** Typed boundaries end to end. If it can fail, it returns a result I have to handle.
+**Infraestructura de pagos**
+Un hub central que abstrae Mercado Pago, dLocal, Cryptomus y Stripe detrás de una sola API. Webhooks idempotentes, verificación de firma, conciliación, y una única superficie de integración para todos los productos del stack.
 
-**Operable by design.** Structured logs, trace IDs across services, audit trails, and alerts that fire on conditions a human should act on.
+**Automatización publicitaria a escala**
+Gestión de campañas contra las APIs de Meta Marketing y TikTok Ads: conversiones del servidor con deduplicación, monitoreo de costo por venta, y reglas que reasignan presupuesto y pausan creativos con evidencia estadística suficiente, no por un mal día.
 
-**Infrastructure as code.** Every environment reproducible from a repository. No server configured by hand.
+**Plataformas de comercio**
+Ecommerce multi-país con pago contra entrega, integración con transportadoras, ciclo de vida del pedido y atribución que sobrevive el camino entre el clic en un anuncio y el paquete entregado.
+
+---
+
+## Cómo trabajo
+
+**Arquitectura hexagonal.** La lógica de dominio es independiente de frameworks y de la entrada y salida. Los adaptadores se reemplazan, el núcleo se testea sin base de datos.
+
+**Explícito antes que implícito.** Tipado de punta a punta. Si algo puede fallar, devuelve un resultado que tengo que manejar.
+
+**Operable desde el diseño.** Logs estructurados, trace IDs entre servicios, auditoría, y alertas que disparan solo donde una persona tiene que decidir algo.
+
+**Infraestructura por código.** Cada entorno reproducible desde un repositorio. Ningún servidor configurado a mano.
 
 ---
 
@@ -58,55 +58,55 @@ Multi-country e-commerce with cash-on-delivery flows, carrier integrations, orde
 
 **Frontend** · Next.js · React · Tailwind CSS
 
-**Data** · PostgreSQL · Redis · MongoDB · DynamoDB
+**Datos** · PostgreSQL · Redis · MongoDB · DynamoDB
 
-**Infra** · Docker · AWS · GitHub Actions · nginx
+**Infraestructura** · Docker · AWS · GitHub Actions · nginx
 
-**AI** · Gemini · Claude · Anthropic SDK · prompt caching · structured output
+**IA** · Gemini · Claude · SDK de Anthropic · prompt caching · salida estructurada
 
 ---
 
-## Experience highlights
+## Experiencia
 
-**Fintech** — fraud detection, KYC pipelines and payment processing in high-traffic microservices.
+**Fintech** — detección de fraude, procesos de KYC y procesamiento de pagos en microservicios de alto tráfico.
 
-**E-commerce** — order, inventory and fulfillment systems across multiple countries and currencies.
+**Ecommerce** — sistemas de pedidos, inventario y fulfillment en varios países y monedas.
 
-**Product** — SaaS platforms taken from zero to production, including the operations that keep them running.
+**Producto** — plataformas SaaS llevadas de cero a producción, incluida la operación que las mantiene andando.
 
 ---
 
 <details>
-<summary><strong>Versión en español</strong></summary>
+<summary><strong>English version</strong></summary>
 
 <br/>
 
-## Sobre mí
+## About
 
-Ingeniero backend con más de 7 años construyendo sistemas en producción, enfocado hoy en **agentes de IA** e **infraestructura de pagos**.
+Backend engineer with 7+ years building production systems, currently focused on **AI agents** and **payment infrastructure**.
 
-La mayor parte de mi trabajo reciente vive en repositorios privados: plataformas SaaS multi-tenant, agentes de IA de venta por WhatsApp atendiendo conversaciones reales, y un hub de pagos que integra cuatro proveedores en tres países. Construyo sistemas que corren solos y me quedo a operarlos.
+Most of my recent work lives in private repositories: multi-tenant SaaS platforms, WhatsApp AI sales agents handling real customer conversations at scale, and a payment hub integrating four providers across three countries. I build systems that run unattended and I stay to operate them.
 
-**Disponible para posiciones de backend e ingeniería de IA, en remoto.**
+**Open to backend and AI engineering roles — remote.**
 
-## Qué construyo
+## What I build
 
-**Agentes de IA para WhatsApp** — asistentes de venta y atención sobre la API oficial de WhatsApp Business. Responden con catálogo real, arman pedidos con direcciones validadas, derivan a personas cuando hace falta, y corren 24/7 en producción.
+**AI agents for WhatsApp** — sales and support assistants on the official WhatsApp Business API. They answer from a real product catalog, assemble orders with validated addresses, hand off to humans when needed, and run 24/7 in production.
 
-**Infraestructura de pagos** — un hub central que abstrae Mercado Pago, dLocal, Cryptomus y Stripe detrás de una sola API. Webhooks idempotentes, verificación de firma y conciliación.
+**Payment infrastructure** — a central hub abstracting Mercado Pago, dLocal, Cryptomus and Stripe behind one API. Idempotent webhooks, signature verification and reconciliation.
 
-**Automatización publicitaria** — gestión de campañas contra las APIs de Meta y TikTok: conversiones del servidor con deduplicación, monitoreo de costo por venta, y reglas que reasignan presupuesto con evidencia suficiente.
+**Ad automation at scale** — campaign management against the Meta Marketing and TikTok Ads APIs: server-side conversion tracking with deduplication, cost-per-acquisition monitoring, and budget rules driven by statistical evidence.
 
-**Plataformas de comercio** — ecommerce multi-país con pago contra entrega, integración con transportadoras y atribución que sobrevive el camino entre el clic y la entrega.
+**Commerce platforms** — multi-country e-commerce with cash-on-delivery flows, carrier integrations and attribution that survives the gap between an ad click and a delivered package.
 
-## Ingeniería
+## Engineering
 
-**Arquitectura hexagonal** — lógica de dominio independiente de frameworks. Los adaptadores se reemplazan, el núcleo se testea sin base de datos.
+**Hexagonal architecture** — domain logic independent of frameworks and I/O. Adapters are replaceable, the core is testable without a database.
 
-**Explícito antes que implícito** — tipado de punta a punta. Si algo puede fallar, devuelve un resultado que tengo que manejar.
+**Explicit over implicit** — typed boundaries end to end. If it can fail, it returns a result I have to handle.
 
-**Operable desde el diseño** — logs estructurados, trace IDs entre servicios, auditoría y alertas que disparan donde una persona debe decidir.
+**Operable by design** — structured logs, trace IDs across services, audit trails, and alerts that fire on conditions a human should act on.
 
-**Infraestructura por código** — cada entorno reproducible desde un repositorio.
+**Infrastructure as code** — every environment reproducible from a repository.
 
 </details>
